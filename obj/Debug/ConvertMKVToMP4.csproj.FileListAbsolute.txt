@@ -1,0 +1,6 @@
+c:\users\peter\documents\visual studio 2015\Projects\ConvertMKVToMP4\ConvertMKVToMP4\bin\Debug\ConvertMKVToMP4.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\ConvertMKVToMP4\ConvertMKVToMP4\obj\Debug\ConvertMKVToMP4.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2015\Projects\ConvertMKVToMP4\ConvertMKVToMP4\bin\Debug\ConvertMKVToMP4.exe
+c:\users\peter\documents\visual studio 2015\Projects\ConvertMKVToMP4\ConvertMKVToMP4\bin\Debug\ConvertMKVToMP4.pdb
+c:\users\peter\documents\visual studio 2015\Projects\ConvertMKVToMP4\ConvertMKVToMP4\obj\Debug\ConvertMKVToMP4.exe
+c:\users\peter\documents\visual studio 2015\Projects\ConvertMKVToMP4\ConvertMKVToMP4\obj\Debug\ConvertMKVToMP4.pdb
